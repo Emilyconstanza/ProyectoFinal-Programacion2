@@ -110,15 +110,12 @@ Se ejecutó y verificó el flujo completo de pruebas exigido:
 
 ## 6. Capturas de Pantalla
 
-*(Reemplazar estas rutas con las capturas tomadas al ejecutar la aplicación localmente)*
-
 * **Gestión de Categorías, Equipos y Clientes:**
-  `![CRUD Equipos](docs/captura_equipos.png)`
+  ![CRUD Equipos](docs/captura_equipos.png)
 * **Registro de Arriendos y Devoluciones:**
-  `![Arriendos y Devoluciones](docs/captura_arriendos.png)`
+  ![Arriendos y Devoluciones](docs/captura_arriendos.png)
 * **Reportes y Gráficos Matplotlib (Arriendos por categoría y Top equipos):**
-  `![Gráficos Matplotlib](docs/captura_graficos.png)`
-
+  ![Gráficos Matplotlib](docs/captura_graficos.png)
 ---
 
 ## 7. Fuentes Consultadas
